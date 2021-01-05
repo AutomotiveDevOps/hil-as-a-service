@@ -1,4 +1,6 @@
-# RaaS
+# HIL as a Service
+## Hardware In The Loop As A Service.
+
 ![CI](https://github.com/perciplex/raas/workflows/CI/badge.svg)
 [![Foo](docs/img/passing-flat.svg)](https://perciplex.github.io/raas)
 <div align="center">
